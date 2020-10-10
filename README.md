@@ -1,1 +1,1 @@
-# HU_CISC_603
+# This repo is for exercise and submission for HU CISC 603 class: Theory of Computation
